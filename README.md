@@ -1,18 +1,38 @@
-## Getting Started
+# Jokenpo - Jogo em Java 💻🎮
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Image do jogo](Gameplay.PNG)
 
-## Folder Structure
+## Sobre o Jogo 📖
 
-The workspace contains two folders by default, where:
+Jokenpo é um jogo para um player, onde o jogador enfrenta o computador em uma série de rodadas de Pedra, Papel e Tesoura. Após cada rodada, o placar é atualizado e exibido.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Jogar 🕹️
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Execute o arquivo do jogo com o comando `java -jar JokenpoGame.jar`
+2. Escolha entre Pedra, Papel e Tesoura.
+3. O computador fará sua escolha.
+4. O resultado da rodada será exibido.
+5. O placar será atualizado e exibido.
+6. O jogo continuará até que você decida parar.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologias Utilizadas 🛠️
 
-## Dependency Management
+Este jogo foi desenvolvido com:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Java
+
+## Autor 🖋️
+
+Robson Silva
+Email: orobsilva@gmail.com
+
+## Licença 📄
+
+Este projeto está sob a licença MIT.
+
+## Como contribuir para o projeto 🤝
+
+1. Faça um fork do projeto.
+2. Crie uma nova branch para suas modificações: `git checkout -b my-feature`.
+3. Salve suas modificações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`.
+4. Envie suas alterações: `git push origin my-feature`.
